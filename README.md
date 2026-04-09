@@ -70,7 +70,7 @@ Smart-Study-Scheduler/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Pranav-mehtax/DS-project.git
-cd smart-study-scheduler
+cd DS-project
 ```
 
 ### 2. Install Dependencies
